@@ -2,7 +2,7 @@
 # Status:
 In Development.
 # Included Weapons:
-Over 200 Weapons Are Expected,From Slot 1 To 0,Alt Fires And Weapon Upgrades Are Included Based On Nexus Infinity.
+Over Hundreds Of Weapons Are Expected,From Slot 1 To 0,Alt Fires And Weapon Upgrades Are Included Based On Nexus Infinity.
 # Included Items:
 As Expected From CF,Monster Runes To Play As Barons,Revenants,Cyberdemons,Cacodemons,Archviles And More(Based On The Cancelled Playable Monsters Addon By High Councilor And Playable Monster Gameplay From Ripped And Torn By koscreate).
 # Included Vehicles:
