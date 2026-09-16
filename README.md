@@ -16,7 +16,7 @@ Expected From Complex Invasion,With The Additions Of Other Vehicles Like A Helic
 * Legendary To Zamasu Monsters.
 * Cosmifernix Monsters(New Tier After Zamasu)
 * Real Icon Of Sin(Intended To Replace The Doom 2 Counterpart Similar To Brutal Doom,Design Will Be A Mix Of Brutal Doom With Afterdoom For Immversive Gameplay).
-* Community Monster Packs By Various Authors.
+* Id Software Monsters (Commander Keen,Quake,Rage,Catacomb-3D And So On...)
 # Download
 Coming Soon...
 # Future Plans
