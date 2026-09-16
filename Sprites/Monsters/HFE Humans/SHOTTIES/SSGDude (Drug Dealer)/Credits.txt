@@ -1,0 +1,9 @@
+De-Zom. SSG Dude (Seargent) Edit:
+
+Credits: 
+
+Base sprites : Goreless Sergeant by HorrorMovieGuy
+		
+Head Sprites:  from Skelegants de-zom. Rifleman
+			
+Skin Name: "SSGD"

@@ -1,1 +1,6 @@
+version "1.0(Initial)"
 
+#Include "Zscript/CheckerEvent.zs"
+#Include "Zscript/ModItemReplacer.zs"
+#Include "Zscript/ZScript.zs"
+#Include "Zscript/SectorSniffer.zs"

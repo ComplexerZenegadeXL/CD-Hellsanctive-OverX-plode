@@ -1,0 +1,8 @@
+De-Zom. SMG Marine Edit:
+
+Credits: Graaiko
+
+Base sprites : by Graaiko Pistol Dude (Zombie)
+			 : SMG Guy from R667 Repository
+			 
+Sprite Name: "SMGD"
