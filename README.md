@@ -13,10 +13,6 @@ Expected From Complex Invasion,With The Additions Of Other Vehicles Like A Helic
 * Canon Doom Franchise Monsters (Including RPG,Legacy Of Rust,64,Eternal,Dark Ages,Doom 4 1.0(Cancelled),Etc.).
 * Original Monsters From Scratch Made By Devs And Members Alike.
 * Wolfenstein Enemies(CF Based).
-* Hell From Earth(Human) Enemies By NomakhThunder.
-* Russian Mercenaries Enemies By RastaManGames.
-* Zdoom Monster Pack By Alexander Adrian Vargas.
-* Sunmadcat's Monsters By Sunmadcat.
 * Legendary To Zamasu Monsters.
 * Cosmifernix Monsters(New Tier After Zamasu)
 * Real Icon Of Sin(Intended To Replace The Doom 2 Counterpart Similar To Brutal Doom,Design Will Be A Mix Of Brutal Doom With Afterdoom For Immversive Gameplay).
